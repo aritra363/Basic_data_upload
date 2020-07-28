@@ -1,0 +1,11 @@
+.heading {
+    color:#343a40;
+    text-align: center;
+}
+.container-fluid{
+    margin-top: 50px;
+}
+.new-button{
+    margin:0 auto;
+    width:fit-content;
+}
